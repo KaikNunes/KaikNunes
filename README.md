@@ -1,10 +1,15 @@
+<div>
 <h2>Olá! Tudo bem?</h2>
 
 Meu nome é Kaik e sou iniciante em programação 😄
+</div>
+
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikNunes&layout=compact&theme=dark)
 
 ##
+
 <div>
 <h3 align="left">Linguagens em desenvolvimento</h3>
 
