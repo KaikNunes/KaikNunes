@@ -22,6 +22,6 @@ Meu nome é Kaik e sou iniciante em programação 😄
 ##
 
 <div> 
-  <a href = "mailto:kaikleonardo30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaik-nunes-oliveira-092298216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "kaikleonardo30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaik-nunes-oliveira-092298216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-           badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
