@@ -1,7 +1,7 @@
 <div>
 <h2>Olá! Tudo bem?</h2>
 
-Olá! Sou um programador iniciante apaixonado por desenvolvimento frontend, buscando aprender e aprimorar minhas habilidades nessa área. Estou sempre em busca de desafios e projetos interessantes que me permitam expandir meu conhecimento e colaborar com equipes.
+Sou um programador iniciante apaixonado por desenvolvimento frontend, buscando aprender e aprimorar minhas habilidades nessa área. Estou sempre em busca de desafios e projetos interessantes que me permitam expandir meu conhecimento e colaborar com equipes.
 
 Estou constantemente estudando novas tecnologias e técnicas para melhorar minhas habilidades em frontend. Estou participando de cursos online, tutoriais e acompanhando as últimas tendências.
 
